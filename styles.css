@@ -39,7 +39,7 @@ form {
 }
 input[class="submit"] {
     display: flex; 
-    background-color: rgba(203, 215, 246, 0.26);
+    background-color: rgba(207, 221, 255, 0.508);
 }
 .container {
   display: flex; 
