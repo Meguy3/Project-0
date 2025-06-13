@@ -38,6 +38,7 @@ form {
     height: 50%;
 }
 input[class="submit"] {
+    display: flex; 
     background-color: rgba(203, 215, 246, 0.26);
 }
 .container {
