@@ -11,7 +11,7 @@ input {
     border: 6px black;
 }
 .search {
-    width: 75%;
+    width: 50%%;
     height: 100%;
 }
 .center {
@@ -25,4 +25,5 @@ br {
 }
 .submit {
     width: 45%;
+    height: 50%;
 }
