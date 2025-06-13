@@ -13,8 +13,9 @@ input {
     height: 5%;
 }
 .center {
-  margin: 50%;
+  margin: auto;
   width: 50%;
+  
 }
 br {
     padding: 1px;
