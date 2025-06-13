@@ -5,9 +5,9 @@ div {
     padding: 5px;
 }
 input {
-    box-shadow: inset;
+    box-shadow: 0px 2px 8px 0px rgba(60, 64, 67, 0.25);
     padding: 2px;
-    border-radius: 20px;
+    border-radius: 24px;
 }
 .search {
     width: 100%;
