@@ -4,3 +4,16 @@ body {
 div {
     padding: 1px;
 }
+input {
+    box-shadow: inset;
+}
+.search {
+    width: 100px;
+    height: 20px;
+}
+.center {
+  display: flex;            /* Enable Flexbox */
+  justify-content: center;  /* Horizontally center the content */
+  align-items: center;      /* Vertically center the content */
+  height: 100vh;            /* Full viewport height */
+}
