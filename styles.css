@@ -2,7 +2,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 input {
-    box-shadow: 0px 4px 10px 0px rgba(5, 6, 7, 0.425);
     margin:auto;
     border-radius: 24px;
 }
@@ -11,6 +10,7 @@ input {
     height: 50%;
     margin-right: 12.5%;
     margin-left: 12.5%;
+    box-shadow: 0px 4px 10px 0px rgba(5, 6, 7, 0.425);
 }
 .center {
   margin: auto;
