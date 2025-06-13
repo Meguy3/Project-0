@@ -40,3 +40,8 @@ form {
 input[class="submit"] {
     background-color: rgba(203, 215, 246, 0.26);
 }
+.container {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
