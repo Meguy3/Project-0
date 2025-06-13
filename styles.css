@@ -16,6 +16,7 @@ input {
   margin: auto;
   width: 50%;
   padding: auto;
+  height: 100vh;
 }
 br {
     padding: 1px;
