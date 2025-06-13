@@ -27,7 +27,7 @@ br {
     width: 50%;
     height: 50%;
     background-color: rgba(203, 215, 246, 0.26);
-    margin: auto;
+    padding: 0%;
 }
 h1 {
     text-align: center;
