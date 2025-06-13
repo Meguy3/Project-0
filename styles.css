@@ -26,9 +26,9 @@ br {
     border-width: 0px;
     width: 20%;
     height: 50%;
-    background-color: rgb(149, 183, 255);
-    margin-right: 15%;
-    margin-left: 15%;
+    background-color: rgb(203, 215, 246);
+    margin-right: auto;
+    margin-left: auto;
 }
 h1 {
     text-align: center;
