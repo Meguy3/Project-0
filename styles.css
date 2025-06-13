@@ -26,7 +26,6 @@ br {
     border-width: 0px;
     width: 50%;
     height: 50%;
-    background-color: rgba(203, 215, 246, 0.26);
     padding: 0%;
     margin: auto;
 }
@@ -37,4 +36,7 @@ h1 {
 }
 form {
     height: 50%;
+}
+input[class="submit"] {
+    background-color: rgba(203, 215, 246, 0.26);
 }
