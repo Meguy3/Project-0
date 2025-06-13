@@ -14,8 +14,8 @@ input {
 }
 .center {
   width: 60%;
-  padding: 20%;
-  height: 10vh;
+  padding: 15%;
+  height: 15vh;
 }
 br {
     padding: 1px;
@@ -29,6 +29,9 @@ br {
 }
 h1 {
     text-align: center;
-    font-size: 2.5em;
+    font-size: 50%;
     color: rgb(0, 0, 0);
+}
+form {
+    width: 50%
 }
