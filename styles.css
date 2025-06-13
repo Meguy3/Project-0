@@ -11,8 +11,9 @@ input {
     border: 6px black;
 }
 .search {
-    width: 50%%;
+    width: 50%;
     height: 100%;
+    background-color: rgb(98, 147, 255);
 }
 .center {
   margin: auto;
