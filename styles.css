@@ -6,6 +6,8 @@ div {
 }
 input {
     box-shadow: inset;
+    width: 100%;
+    padding: 2px;
 }
 .search {
     width: 100%;
@@ -14,4 +16,7 @@ input {
 .center {
   margin: auto;
   width: 50%;
+}
+br {
+    padding: 1px;
 }
