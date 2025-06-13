@@ -21,7 +21,8 @@ br {
     padding: 1px;
 }
 .submit {
-    width: 50%;
+    width: 20%;
     height: 50%;
     background-color: rgb(149, 183, 255);
+    margin-right: 15%;
 }
