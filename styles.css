@@ -28,6 +28,7 @@ br {
     height: 50%;
     background-color: rgba(203, 215, 246, 0.26);
     padding: 0%;
+    margin: auto;
 }
 h1 {
     text-align: center;
